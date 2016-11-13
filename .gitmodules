@@ -1,0 +1,3 @@
+[submodule "external/xplane_sdk"]
+	path = external/xplane_sdk
+	url = git@github.com:Hopobcn/xplane_sdk.git
